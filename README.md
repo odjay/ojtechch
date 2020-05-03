@@ -1,2 +1,2 @@
 # ojtechch
-ojtech.ch
+ojtechch
