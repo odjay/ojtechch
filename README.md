@@ -1,2 +1,2 @@
 # ojtechch
-GitHub Pages
+ojtech.ch
