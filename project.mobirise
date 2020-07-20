@@ -58,8 +58,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "OJTECH Service informatique et conseil",
-          "text": "<b>Contacter moi au 079 417 55 51 &nbsp;&nbsp;</b>",
+          "title": "OJTECH Service informatique et conseil<br><br>Contacter moi au 079 417 55 51&nbsp;",
+          "text": "<b>&nbsp; &nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+41794175551\" data-toolbar=\"-mbrBtnMove\">Contactez-moi via mobile</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+41794175551\" data-toolbar=\"-mbrBtnMove\">Contactez-moi via email</a> ",
           "alias": "purity/components",
           "_tags": [
