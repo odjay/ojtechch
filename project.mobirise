@@ -14,14 +14,24 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "uniqCompNum": 0,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "imageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-mailform": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "OJTECH.CH",
+        "meta_descr": "OJTECH.CH Support et conseils informatique",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -31,8 +41,8 @@
           "_inherit": "header1",
           "_params": {
             "showTitle": true,
-            "showText": false,
-            "showButtons": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
             "contentAlign": "left",
             "bgImageRadio": true,
@@ -49,14 +59,22 @@
             "overlayOpacity": 0.5
           },
           "title": "OJTECH Service informatique et conseil",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "text": "<b>Contacter moi au 079 417 55 51 &nbsp;&nbsp;</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+41794175551\" data-toolbar=\"-mbrBtnMove\">Contactez-moi via mobile</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"tel:+41794175551\" data-toolbar=\"-mbrBtnMove\">Contactez-moi via email</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-d"
+          "_anchor": "header4-d",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "48px"
+            }
+          }
         },
         {
           "text": "Dépannage informatique à domicile et ou à distance via anydesk - teamviewer - zoom.<br>Formations informatiques à domicile et ou à distance.<br><br>Mise en place de nom de domaine et e-mail personalisé.<br>Design et mise en place de site internet et référencements.<br>Design et mise en place de pages ou shop en ligne Facebook et publicités actives.<br><br>Conseils informatique pour achat de matériel et mise en route et migrations des données.<br><br>Mise en place de solution de sauvegarde , via Synology ou en ligne via Cloud.<br>Numérisation et transfert de données sur différents média (CD-DVD-Diapositives-VHS-C-DVi)<br>Numérisation de diapositives et photos sur USB.<br><br>Audit de sécurité sur votre installation à domicile et mesure correctives - Wifi - mot de passe.<br>Mise en place de système de caméra de surveillance IP centralisée.<br><br>",
