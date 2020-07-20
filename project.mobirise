@@ -69,10 +69,10 @@
           "_anchor": "header4-d",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "right"
             },
             "B": {
-              "font-size": "48px"
+              "font-size": "60px"
             }
           }
         },
