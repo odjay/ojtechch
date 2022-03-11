@@ -410,28 +410,6 @@
           "_styles": {
             "padding-top": "(@paddingTop * 1rem)",
             "padding-bottom": "(@paddingBottom * 1rem)",
-            "background-color": "@bgColor",
-            ".mbr-section-btn": {
-              "justify-content": "space-between",
-              "display": "flex",
-              "flex-wrap": "wrap"
-            }
-          },
-          "_name": "content12",
-          "_sourceTheme": "mobirise5",
-          "_customHTML": "<section data-bs-version=\"5.1\" class=\"content12\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"3\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"4\" step=\"1\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#353535\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrAddBtn\"><a class=\"btn btn-primary\" href=\"<!-- Calendly link widget begin --> <link href=&quot;https://assets.calendly.com/assets/external/widget.css&quot; rel=&quot;stylesheet&quot;> <script src=&quot;https://assets.calendly.com/assets/external/widget.js&quot; type=&quot;text/javascript&quot; async></script> <a href=&quot;&quot; onclick=&quot;Calendly.initPopupWidget({url: 'https://calendly.com/ojtech/entretien-d-informations?hide_event_type_details=1&amp;hide_gdpr_banner=1'});return false;&quot;>Prendre un rendez-vous avec moi</a> <!-- Calendly link widget end -->\" data-app-placeholder=\"Type Text\">Prendre un rendez vous en ligne avec moi</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "sZKr9QDvDS",
-          "_anchor": "content12-3",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 1rem)",
-            "padding-bottom": "(@paddingBottom * 1rem)",
             "& when (@bg-type = 'color')": {
               "background": "@bg-value"
             },
